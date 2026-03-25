@@ -1,0 +1,7 @@
+git checkout main
+M       README.md
+Switched to branch 'main'
+Your branch is up to date with 'origin/main'.
+theia@theia-srijanaad19:/home/project/mcino-Int
+roduction-to-Git-and-GitHub$ git merge bug-fix-typo
+Already up to date.
