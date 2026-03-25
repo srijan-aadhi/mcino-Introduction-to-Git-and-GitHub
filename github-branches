@@ -1,0 +1,4 @@
+git branch -vv
+  bug-fix-revert fb3b267 Merge bug-fix-typo into main branch
+  bug-fix-typo   fb3b267 Merge bug-fix-typo into main branch
+* main           fb3b267 [origin/main] Merge bug-fix-typo into main branch
